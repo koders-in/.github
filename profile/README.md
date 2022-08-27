@@ -1,9 +1,9 @@
 <div align="center">
-<img src="./koders-logo-full.png" width="400px">
-<h3> Your Vision, Our <span><img src="./koders-logo.png" height="15px"><span>reation.</h3>
+<img src="koders-logo-full.png" width="400px">
+<h3> Your Vision, Our <span><img src="koders-logo.png" height="15px"><span>reation.</h3>
 </div>
 <div align="left">
-<img src="./assets/kode.png" height="250px" align="right"/>
+<img src="assets/kode.png" height="250px" align="right"/>
 <h3>Hey there! Welcome!</h3>
 <br>
 <p>
