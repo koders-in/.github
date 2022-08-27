@@ -1,17 +1,21 @@
 <div align="center">
-<img src="https://github.com/koders-in/.github/blob/main/profile/koders-logo-full.png" width="400px">
-<h3> Your Vision, Our <span><img src="https://github.com/koders-in/.github/blob/main/profile/koders-logo.png" height="15px"><span>reation.</h3>
+<img src="https://github.com/koders-in/.github/blob/main/profile/banner.png">
 </div>
 <div align="left">
-<img src="https://github.com/koders-in/.github/blob/main/profile/assets/kode.png" height="250px" align="right"/>
-<h3>Hey there! Welcome!</h3>
-<br>
+<h3>Hey there! Welcome to our GitHub!</h3>
 <p>
 <a href="http://www.koders.in" target="_blank"><b>Koders</b></a> is a group of like-minded people who are striving their best to provide real world solutions to your ideas. Here we build software that add value to your business and take it to a new dimensions of success.
 </p>
 <p>
 The vision is to build the best and invent a better tomorrow with the help of the great growling engine - Technology. Koders is Kore of galvanized enthusiasts working for a vision beyond reality.
 </p>
+</div>
+<div>
+<h3>Technology We Use:</h3>
+<p>
+The world around us is evolving every single day and we ensure to keep ourselves updated with the latest technologies to deliever the best software for our customers.
+</p>
+<img src="https://www.koders.in/static/media/Technology.2928182c.svg">
 </div>
 <div>
 <h3>Connect with us</h3>
