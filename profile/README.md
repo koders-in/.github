@@ -16,17 +16,6 @@
 The vision is to build the best and invent a better tomorrow with the help of the great growling engine - Technology. Koders is Kore of galvanized enthusiasts working for a vision beyond reality.
 </p>
 </div>
-<div>
-<h3>The services we provide...</h3>
-</div>
-<div>
-<h3>The technologies we use:</h3>
-<p>
-The world around us is evolving every single day and we ensure to keep ourselves updated with the latest technologies to deliever the best software for our customers.
-</p>
-<!-- <img src="https://www.koders.in/static/media/Technology.2928182c.svg"> -->
-</div>
-<div>
 <h3>Follow and Connect with us!</h3>
 <a href="https://www.linkedin.com/company/koders-in/" target="_blank"><img align="center" src="https://www.koders.in/static/media/linkedin-rect.70b6de0d.svg" alt="koders-in" height="30px" width="30px"/></a>&ensp;
 <a href="https://www.instagram.com/koders_in/" target="_blank"><img align="center" src="https://www.koders.in/static/media/instagram.fe30fdf6.svg" alt="koders_in" height="30px" width="30px"/></a>&ensp;
