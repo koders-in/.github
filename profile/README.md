@@ -27,7 +27,7 @@ The vision is to build the best and invent a better tomorrow with the help of th
 The world around us is evolving every single day and we ensure to keep ourselves updated with the latest technologies to deliever the best software solutions to our customers.
 </p>
 <!-- TODO => Add Kontact Us URL -->
-<a href="https://koders.in" target="_blank"><img alt="Tech We Use" src="https://github.com/koders-in/.github/blob/dev/profile/tech-we-use.png"></a>
+<a href="https://koders.in" target="_blank"><img alt="Tech We Use" src="https://github.com/koders-in/.github/blob/dev/profile/tech.png"></a>
 <br><br>
 </div>
 <h3>Follow and Connect with us!</h3>
