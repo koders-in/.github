@@ -9,7 +9,7 @@
 </p>
 </div>
 <div align="left">
-<h3>About Us</h3>
+<h3 align="center">About Us</h3>
 <p>
 Koders is a group of like-minded people who are striving their best to provide real world solutions to your ideas. Here we build software that add value to your business and take it to a new dimensions of success.
 </p>
@@ -18,7 +18,7 @@ The vision is to build the best and invent a better tomorrow with the help of th
 </p>
 </div>
 <div align="left">
-<h3>Services and Technologies</h3>
+<h3 align="center">Services and Technologies</h3>
 <p align="center"><i>We Kreate what you Kontemplate.</i></p>
 <!-- TODO => Add Kontact Us URL -->
 <a href="https://koders.in" target="_blank"><img alt="Services" src="https://github.com/koders-in/.github/blob/dev/profile/services.png"></a>
@@ -30,6 +30,7 @@ The world around us is evolving every single day and we ensure to keep ourselves
 <a href="https://koders.in" target="_blank"><img alt="Tech We Use" src="https://github.com/koders-in/.github/blob/dev/profile/tech.png"></a>
 <br><br>
 </div>
+<div align="center">
 <h3>Follow and Connect with us!</h3>
 <a title="LinkedIn" href="https://www.linkedin.com/company/koders-in/" target="_blank"><img align="center" src="https://github.com/koders-in/.github/blob/dev/profile/socials/linkedin.png" alt="koders-in" height="30px" width="30px"/></a>&ensp;
 <a title="Instagram" href="https://www.instagram.com/koders_in/" target="_blank"><img align="center" src="https://github.com/koders-in/.github/blob/dev/profile/socials/instagram.png" alt="koders_in" height="30px" width="30px"/></a>&ensp;
