@@ -37,6 +37,14 @@ The world around us is evolving every single day and we ensure to keep ourselves
 <a href="https://koders.in" target="_blank"><img alt="Tech We Use" src="https://github.com/koders-in/.github/blob/main/profile/tech.png"></a>
 <br><br>
 </div>
+
+<div align="center">
+<img src="https://github.com/koders-in/.github/blob/main/profile/trusted.png" width="30%" height="30%" /> <br />
+  </div>
+   <div align="center">
+    <img src="https://github.com/koders-in/.github/blob/main/profile/partners.png"  />
+ </div>
+  
 <div align="center">
 <h3>Follow and Connect with us!</h3>
 <a title="LinkedIn" href="https://www.linkedin.com/company/koders-in/" target="_blank"><img align="center" src="https://github.com/koders-in/.github/blob/main/profile/socials/linkedin.png" alt="koders-in" height="30px" width="30px"/></a>&ensp;
