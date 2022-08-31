@@ -8,18 +8,20 @@
   <a href="https://bot.koders.in" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-00ad99"></a>
 </p>
 </div>
+<br />
 <div align="left">
-<h3 align="center">About Us</h3>
-<p>
-Koders is a group of like-minded people who are striving their best to provide real world solutions to your ideas. Here we build software that add value to your business and take it to a new dimensions of success.
-</p>
-<p>
-The vision is to build the best and invent a better tomorrow with the help of the great growling engine - Technology. Koders is Kore of galvanized enthusiasts working for a vision beyond reality.
-</p>
+<h1 align="center">
+  Infrastructure for high quality applications </h1>
+</h1>
+<h3 align="center">
+  Supercharging your business with up to date technologies, </h3>
+<h3 align="center"> standards and code automations
+</h3>
 </div>
 <div align="left">
-<h3 align="center">Services and Technologies</h3>
-<p align="center"><i>We Kreate what you Kontemplate.</i></p>
+  <br />
+<h2 align="center">Services</h2>
+
 <!-- TODO => Add Kontact Us URL -->
 <a href="https://koders.in" target="_blank"><img alt="Services" src="https://github.com/koders-in/.github/blob/main/profile/services.png"></a>
 <br><br>
@@ -27,6 +29,9 @@ The vision is to build the best and invent a better tomorrow with the help of th
 The world around us is evolving every single day and we ensure to keep ourselves updated with the latest technologies to deliever the best software solutions to our customers.
 </p>
 <!-- TODO => Add Kontact Us URL -->
+    <br />
+
+<h2 align="center">Technologies</h2>
 <a href="https://koders.in" target="_blank"><img alt="Tech We Use" src="https://github.com/koders-in/.github/blob/main/profile/tech.png"></a>
 <br><br>
 </div>
