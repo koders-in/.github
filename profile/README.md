@@ -9,19 +9,19 @@
 </p>
 </div>
 <br />
-<div align="left">
-<h1 align="center">
-  Infrastructure for high quality applications </h1>
-</h1>
+<div align="center">
+<img src="https://github.com/koders-in/.github/blob/main/profile/title.png" />
 <h3 align="center">
-  Supercharging your business with up to date technologies, </h3>
-<h3 align="center"> standards and code automations
+  <i> "Supercharge your business with latest technologies, </i> </h3>
+  <h3 align="center"> <i> industry level standards and stable applications " </i>
 </h3>
 </div>
 <div align="left">
   <br />
-<h2 align="center">Services</h2>
-
+<div align="center">
+<img src="https://github.com/koders-in/.github/blob/main/profile/services_title.png" width="20%" height="20%"/>
+  </div>
+  <br />
 <!-- TODO => Add Kontact Us URL -->
 <a href="https://koders.in" target="_blank"><img alt="Services" src="https://github.com/koders-in/.github/blob/main/profile/services.png"></a>
 <br><br>
@@ -31,7 +31,9 @@ The world around us is evolving every single day and we ensure to keep ourselves
 <!-- TODO => Add Kontact Us URL -->
     <br />
 
-<h2 align="center">Technologies</h2>
+<div align="center">
+<img src="https://github.com/koders-in/.github/blob/main/profile/tech_title.png" width="30%" height="30%" />
+  </div>
 <a href="https://koders.in" target="_blank"><img alt="Tech We Use" src="https://github.com/koders-in/.github/blob/main/profile/tech.png"></a>
 <br><br>
 </div>
