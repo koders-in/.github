@@ -10,7 +10,7 @@
 </div>
 <br />
 <div align="center">
-<img src="https://github.com/koders-in/.github/blob/main/profile/title.png" />
+<img src="https://github.com/koders-in/.github/blob/main/profile/title.png" width="50%" height="50%"/>
 <h3 align="center">
   <i> "Supercharge your business with latest technologies, </i> </h3>
   <h3 align="center"> <i> industry level standards and stable applications " </i>
@@ -39,7 +39,7 @@ The world around us is evolving every single day and we ensure to keep ourselves
 </div>
 
 <div align="center">
-<img src="https://github.com/koders-in/.github/blob/main/profile/trusted.png" width="30%" height="30%" /> <br />
+<img src="https://github.com/koders-in/.github/blob/main/profile/trusted.png" width="30%" height="30%" /> <br /> <br />
   </div>
    <div align="center">
     <img src="https://github.com/koders-in/.github/blob/main/profile/partners.png"  />
