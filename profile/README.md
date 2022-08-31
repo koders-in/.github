@@ -12,9 +12,9 @@
 <div align="center">
 <img src="https://github.com/koders-in/.github/blob/main/profile/title.png" width="50%" height="50%"/>
 <h3 align="center">
-  <i> "Supercharge your business with latest technologies, </i> </h3>
-  <h3 align="center"> <i> industry level standards and stable applications " </i>
-</h3>
+<div align="center">
+<img src="https://github.com/koders-in/.github/blob/main/profile/subtitle.png" width="70%" height="70%"/>
+
 </div>
 <div align="left">
   <br />
