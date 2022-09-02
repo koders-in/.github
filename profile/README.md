@@ -8,19 +8,17 @@
   <a href="https://bot.koders.in" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-00ad99"></a>
 </p>
 </div>
-<br />
+<br>
 <div align="center">
-<img src="https://github.com/koders-in/.github/blob/main/profile/title.png" width="50%" height="50%"/>
-<h3 align="center">
-<div align="center">
+<img src="https://github.com/koders-in/.github/blob/main/profile/title.png" width="70%" height="70%"/>
+<br><br>
 <img src="https://github.com/koders-in/.github/blob/main/profile/subtitle.png" width="70%" height="70%"/>
-
 </div>
+<br>
 <div align="left">
-  <br />
 <div align="center">
-<img src="https://github.com/koders-in/.github/blob/main/profile/services_title.png" width="20%" height="20%"/>
-  </div>
+<img src="https://github.com/koders-in/.github/blob/main/profile/services_title.png" width="15%" height="15%"/>
+</div>
   <br />
 <!-- TODO => Add Kontact Us URL -->
 <a href="https://koders.in" target="_blank"><img alt="Services" src="https://github.com/koders-in/.github/blob/main/profile/services.png"></a>
@@ -32,18 +30,17 @@ The world around us is evolving every single day and we ensure to keep ourselves
     <br />
 
 <div align="center">
-<img src="https://github.com/koders-in/.github/blob/main/profile/tech_title.png" width="30%" height="30%" />
-  </div>
+<img src="https://github.com/koders-in/.github/blob/main/profile/tech_title.png" width="25%" height="25%" />
 <a href="https://koders.in" target="_blank"><img alt="Tech We Use" src="https://github.com/koders-in/.github/blob/main/profile/tech.png"></a>
 <br><br>
 </div>
 
 <div align="center">
-<img src="https://github.com/koders-in/.github/blob/main/profile/trusted.png" width="30%" height="30%" /> <br /> <br />
-  </div>
-   <div align="center">
-    <img src="https://github.com/koders-in/.github/blob/main/profile/partners.png"  />
- </div>
+<br>
+<img src="https://github.com/koders-in/.github/blob/main/profile/trusted.png" width="70%" height="70%" />
+<br><br>
+<img src="https://github.com/koders-in/.github/blob/main/profile/partners.png"/>
+</div>
   
 <div align="center">
 <h3>Follow and Connect with us!</h3>
