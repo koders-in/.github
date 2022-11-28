@@ -46,7 +46,7 @@ The world around us is evolving every single day and we ensure to keep ourselves
 <h3>Follow and Connect with us!</h3>
 <a title="LinkedIn" href="https://www.linkedin.com/company/koders-in/" target="_blank"><img align="center" src="https://github.com/koders-in/.github/blob/main/profile/socials/linkedin.png" alt="koders-in" height="30px" width="30px"/></a>&ensp;
 <a title="Instagram" href="https://www.instagram.com/koders_in/" target="_blank"><img align="center" src="https://github.com/koders-in/.github/blob/main/profile/socials/instagram.png" alt="koders_in" height="30px" width="30px"/></a>&ensp;
-<a title="Twitter" href="https://twitter.com/KodersHQ" target="_blank"><img align="center" src="https://github.com/koders-in/.github/blob/main/profile/socials/twitter.png" alt="KodersHQ" height="30px" width="36.91px"/></a>&ensp;
+<a title="Twitter" href="https://twitter.com/KodersKorp" target="_blank"><img align="center" src="https://github.com/koders-in/.github/blob/main/profile/socials/twitter.png" alt="KodersHQ" height="30px" width="36.91px"/></a>&ensp;
 <a title="Facebook" href="https://www.facebook.com/kodersin" target="_blank"><img align="center" src="https://github.com/koders-in/.github/blob/main/profile/socials/facebook.png" alt="kodersin" height="30px" width="30px"/></a>&ensp;
 <a title="Discord" href="https://dsc.gg/koders" target="_blank"><img align="center" src="https://github.com/koders-in/.github/blob/main/profile/socials/discord.png" alt="koders" height="30px" width="39.36px"/></a>&ensp;
 <a title="YouTube" href="https://www.youtube.com/channel/UCZ5abFiwqKyJLIQ1Jqb6bNg" target="_blank"><img align="center" src="https://github.com/koders-in/.github/blob/main/profile/socials/youtube.png" alt="Koders" height="30px" width="42.58px"/></a>
